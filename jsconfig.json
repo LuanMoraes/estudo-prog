@@ -1,5 +1,5 @@
 {
   "compilerOptions": {
-    "baseUrl": "."
+    "baseUrl": "." //Informa que o diretório onde está o arquivo jsconfig.json é o diretório raiz
   }
 }
